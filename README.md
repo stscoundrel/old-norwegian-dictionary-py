@@ -24,7 +24,7 @@ dictionary = get_dictionary()
 
 # Dictionaries return entries that consist of headword, part of speech and definition.
 print(dictionary[25000].word)           # náðuliga
-print(dictionary[25000].part_of_speech) # adj
+print(dictionary[25000].part_of_speech) # adv
 print(dictionary[25000].definition)     # náðuliga, adv.  1)  i Stilhed, ubemærket; hann bauð at hafa [...and more]
 
 ```
