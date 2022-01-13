@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="old-norwegian-dictionary",
-    version="0.1.0",
+    version="0.9.0",
     author="stscoundrel",
     description="Old Norwegian/Norse Dictionary for Python. From 'Dictionary of the Old Norwegian Language'",
     long_description=long_description,
