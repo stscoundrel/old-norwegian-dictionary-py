@@ -29,6 +29,16 @@ print(dictionary[25000].definition)     # náðuliga, adv.  1)  i Stilhed, ubem�
 
 ```
 
+Individual words are returned in format of:
+
+```python
+{
+    word: str
+    part_of_speech: str
+    definition: str
+}
+```
+
 
 
 ### About "Dictionary of the Old Norwegian Language"
